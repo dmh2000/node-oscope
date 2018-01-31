@@ -185,7 +185,7 @@ and since we are displaying a signed value, divide height in pixels by 2 to get 
 x axis.
 
 For the horizontal scale, which shows the x axis spacing of individual sample points. We use samples per second, 
-seconds per division and x axis size. is the formual for that translation:
+seconds per division and x axis size. is the formula for that translation:
 
 seconds per xaxis = seconds per division * 10 divisions
 
